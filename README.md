@@ -1,12 +1,11 @@
-# Quickstart for Google ML Kit
-==============================
+#Quickstart for Google ML Kit 
 
 # How to start it
-------------
+
 See the <a href="https://firebase.google.com/docs/ml-kit/"><b>document</b></a>
 
 # Features are available on device or in the cloud
-------------
+
   <ul>
   <a href="https://firebase.google.com/docs/ml-kit/recognize-text"><li>Text recognition</li></a>		
   <a href="https://firebase.google.com/docs/ml-kit/detect-faces"><li>Face detection</li></a>
