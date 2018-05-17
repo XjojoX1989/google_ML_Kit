@@ -13,5 +13,9 @@
   </ul>
 
 ## Text Recognition
-Text recognition can automate detect data for credit cards, recepts, and business cards or organize photos.
-See the <a href="https://firebase.google.com/docs/ml-kit/android/recognize-text"><b>Getting started on Android</b></a>
+<p>Text recognition can automate detect data for credit cards, recepts, and business cards or organize photos.
+<p>See the <a href="https://firebase.google.com/docs/ml-kit/android/recognize-text"><b>Getting started on Android</b></a>
+
+## Face detection
+<p>With ML Kit's face detection API, you can detect faces in an image and identify key facial features.
+<p>See the <a href="https://firebase.google.com/docs/ml-kit/android/detect-faces"><b>Getting started on Android</b></a>
